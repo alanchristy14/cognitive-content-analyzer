@@ -17,3 +17,17 @@ An AI-powered content review and analysis system designed to evaluate digital co
 
 ## GitHub Repository
 https://github.com/alanchristy14/cognitive-content-analyzer
+
+## Screenshots
+
+### Home Page
+![Home](./screenshots/home.png)
+
+### Analysis Page
+![Analysis](./screenshots/analysis.png)
+
+### Result Page 1
+![Result1](./screenshots/result.png)
+
+### Result Page 2
+![Result2](./screenshots/results.png)
